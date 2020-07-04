@@ -3,7 +3,7 @@ Projeto criado para o módulo 3 da rocketseat, Fundamentos ReactJS.
 Github Explorer é um projeto simples apenas feito para buscar e listar repositórios
 existentes no Github mas que da pra abordar vários conceitos legais de React
 
-![Homepage](./public/home.png)
+![Homepage](./public/githubhome.png)
 
 ## Configuraçõs Iniciais
 
